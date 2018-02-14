@@ -1,7 +1,7 @@
 import Pyramid,Sphere,Box
 
 m1 = input("If you would like to test for a rectangular prism, enter B.  If you would like to test for a rectangular pyramid, enter P.  If you would like to test for an ellipsoid, enter S.")
-#m1 = upper(m1)
+m1 = upper(m1)
 
 l = float(input("Enter the length of your object:"))
 w = float(input("Enter the width of your object:"))
